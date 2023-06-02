@@ -1,0 +1,17 @@
+{
+  "name": "rekognition",
+  "version": "1.0.0",
+  "description": "s3 for amazon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "primary input",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-rekognition": "^3.341.0",
+    "@aws-sdk/client-s3": "^3.341.0",
+    "aws-sdk": "^2.1382.0",
+    "canvas": "^2.11.2"
+  }
+}
